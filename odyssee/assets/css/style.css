@@ -1,0 +1,16 @@
+html {
+    font-size: 80%;
+}
+.logo{
+    width: 40px;
+}
+
+header  .btn {
+    font-size: 11px !important;
+}
+header  .btn:hover {
+    color: red !important;
+}
+img{
+    max-width: 120px;
+}
